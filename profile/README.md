@@ -42,7 +42,7 @@ flowchart LR
 
 # Ce que les membres gagnent
 ## Ce que nous offrons
-- Participation aux projets (equity / parts / revenus - à définir selon le projet)
+- Participation aux projets (equity / parts / revenus - à définir selon le projet) => **En construction**
 - Liberté technique
 - Apprentissage accéléré
 - Réseau de créateurs
