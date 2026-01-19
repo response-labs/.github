@@ -1,4 +1,6 @@
-## Hi there 👋
+![Logo ResponseLabs](./logo.png)
+
+## Bienvenue chez ResponseLabs 👋
 
 <!--
 
