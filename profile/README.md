@@ -1,57 +1,73 @@
-![Logo ResponseLabs](./logo.png)
+![Logo Response Labs](./banner.jpg)
 
-# ResponseLabs
-> ***Un studio de création de startups logicielles***
+# Response Labs
 
->> Nous regroupons des développeurs et créateurs pour lancer rapidement des projets,<br>
->> mesurer leur potentiel réel, et ne garder que ceux qui fonctionnent.
+> **Un laboratoire de création de startups**
 
-# Le modèle
-## Notre aproche
+Nous regroupons des développeurs et créateurs pour lancer rapidement des projets, mesurer leur potentiel réel, et ne garder que ceux qui fonctionnent.
+
+---
+
+## Le modèle
+
+### Notre approche
+
 ```mermaid
 flowchart LR
     A(["Idée"]) --> B{"prototype"}
     B --> C["traction"]
     C --> D["scalabilité"]
 ```
-- Cycles courts, décisions basées sur des données réèles
+
+**Principes clés :**
+- Cycles courts, décisions basées sur des données réelles
 - Abandon rapide des projets non viables
 
-> ResponseLabs ne propose aucune rémunération immédiate.<br>
-> Nous construisons d’abord des produits.<br>
-> La valeur vient ensuite.
+> **Important :** Response Labs ne propose aucune rémunération immédiate. Nous construisons d'abord des produits. La valeur vient ensuite.
 
-## Notre philosophie
+### Notre philosophie
+
 - Pas de bullshit
 - Pas de projets zombies
 - Pas de hiérarchie lourde
 
-## Notre objectif
-> Créer plusieurs startups,<br>conserver les meilleurs,<br>générer de la valeur réèle.
+### Notre objectif
 
-# À qui s'adresse ResponseLabs ?
-## ResponseLabs est fait pour toi si:
+> Créer plusieurs startups, conserver les meilleurs, générer de la valeur réelle.
+
+---
+
+## À qui s'adresse Response Labs ?
+
+### Response Labs est fait pour toi si :
+
 - Tu sais livrer en production
-- Tu comprends les enjeux buisness, pas juste techniques
-- Tu préfères créer quelque choses plutôt que "faire des tickets"
+- Tu comprends les enjeux business, pas juste techniques
+- Tu préfères créer quelque chose plutôt que "faire des tickets"
 
-## Ce n'est pas pour toi si:
+### Ce n'est pas pour toi si :
+
 - Tu cherches un job salarié classique
 - Tu veux un cadre rigide et rassurant
 - Tu n'acceptes pas l'échec rapide
 
-# Ce que les membres gagnent
-## Ce que nous offrons
-- Participation aux projets (equity / parts / revenus - à définir selon le projet) => **En construction**
+---
+
+## Ce que les membres gagnent
+
+### Ce que nous offrons
+
+- Participation aux projets (equity / parts / revenus - à définir selon le projet) → **En construction**
 - Liberté technique
 - Apprentissage accéléré
 - Réseau de créateurs
 
-## Ce que nous attendons
+### Ce que nous attendons
+
 - Engagement réel
 - Niveau technique solide
 - Responsabilité
 
--------
+---
 
-> Vous voulez construir avec nous ?<br>Rejoignez nous !.
+> **Vous voulez construire avec nous ?** Rejoignez-nous !
